@@ -1,0 +1,3 @@
+hello this is sample file for 09_01_file_open
+this is second line to check 09_02 readline
+this is third line
